@@ -10,3 +10,4 @@ Goal
 To develop a classification model that predicts the "loan status" of a loan
 
 Description of the columns used in prediction: \ Note with over 150 columns in this dataset, only the below will be used
+![image](https://github.com/17yw140/Deep-Learning-Loan-Default-Prediction/assets/114831042/339a1684-16ff-419e-8a09-1dbd18623a99)
